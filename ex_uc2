@@ -1,0 +1,14 @@
+🎤 You (Voice): ask model object_detector
+
+🔍 Parsed:
+{
+  "action_type": "model_query",
+  "payload": {
+    "model_name": "object_detector",
+    "input_data": {}
+  }
+}
+
+📡 [E2M] Querying model 'object_detector'...
+✅ Response: { "detected_objects": ["tree", "person"], ... }
+

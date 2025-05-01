@@ -1,0 +1,13 @@
+🎤 You (Voice): assign task drone_1 clean sector 7
+
+🔍 Parsed:
+{
+  "action_type": "assign_task",
+  "payload": {
+    "task_instruction": "drone_1 clean sector 7"
+  }
+}
+
+🧠 [AIO] Assigning task 'drone_1 clean sector 7' to agent 'drone_1'
+✅ [AIO] Agent 'drone_1' acknowledged task
+

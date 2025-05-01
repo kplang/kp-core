@@ -1,0 +1,14 @@
+🎤 You (Voice): send peer bot_9: activate defense mode
+
+🔍 Parsed:
+{
+  "action_type": "peer_message",
+  "payload": {
+    "target_peer": "bot_9",
+    "message": "activate defense mode"
+  }
+}
+
+📡 [M2M] Sending message to 'bot_9': activate defense mode
+✅ [M2M] 'bot_9' acknowledged: "activate defense mode"
+

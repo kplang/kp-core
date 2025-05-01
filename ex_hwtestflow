@@ -1,0 +1,10 @@
+🎤 You (Voice): read sensor temp_sensor_001
+
+🔍 Parsed:
+{
+  "action_type": "hardware_read",
+  "payload": { "sensor_id": "temp_sensor_001" }
+}
+
+🌐 [H2D] Read from temp_sensor_001: 26.75 °C
+
